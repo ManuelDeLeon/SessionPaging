@@ -14,3 +14,5 @@ Router.onBeforeAction( ->
 ,
   only: ['p3']
 )
+
+Router.route '/p4'
